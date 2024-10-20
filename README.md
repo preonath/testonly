@@ -125,8 +125,7 @@ For detailed usage instructions, refer to the headers in each script which outli
 
 ## Contact
 For further inquiries or potential collaborations, please contact:
-1. [Preonath Chondrow Dev](mailto:preonath.chondrow.dev@chrfbd.org)
-2. [Second Collaborator](mailto:second.collaborator@example.com)
+
 
 ## Citation
 Please cite this tool as follows if utilized in your research:
